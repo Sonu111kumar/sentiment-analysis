@@ -41,3 +41,8 @@ This project demonstrates a sentiment analysis web application that leverages th
    ```bash
    git clone https://github.com/your-username/repository-name.git
    cd repository-name
+    ```
+### Running Project
+
+step 1 
+![image](https://github.com/user-attachments/assets/48aa109a-5269-4ac7-861d-1928a93d75fb)
