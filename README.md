@@ -46,3 +46,7 @@ This project demonstrates a sentiment analysis web application that leverages th
 
 step 1 
 ![image](https://github.com/user-attachments/assets/48aa109a-5269-4ac7-861d-1928a93d75fb)
+
+step 2
+![image](https://github.com/user-attachments/assets/888c0099-fc93-481e-a2fd-6f81d10e92ef)
+
