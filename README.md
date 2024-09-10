@@ -53,5 +53,10 @@ step 2
 step 3
 ![image](https://github.com/user-attachments/assets/f0a0d42c-3bab-4929-847a-e0a8681f1519)
 
+### References
+1. Using ChatGPT
+2. https://learn.microsoft.com/en-us/training/paths/develop-language-solutions-azure-ai/
+3. Youtube https://youtu.be/QpzMWQvxXWk?si=TV8JaENEjlLztfyr
+
 
 
